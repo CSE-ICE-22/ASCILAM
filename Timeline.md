@@ -2,7 +2,7 @@
 
 ## 🟠 Phase 1: Setup & Communication (Week 1–2)
 ### Goal: Establish UDP communication between M-Bots and Coordinator Pi.
-- [ ] Install ROS 2 Jazzy on Raspberry Pi 4.
+- [ ] Install ROS 2 Foxy on Raspberry Pi 4.
 - [ ] Configure Wi-Fi and test UDP connections from M-Bots to Pi.
 - [ ] Implement UDP streaming test (mock map and pose data).
 - [ ] Coordinator logs incoming data via subscriber node.
